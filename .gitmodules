@@ -1,0 +1,8 @@
+[submodule "RTI"]
+	path = RTI
+	url = https://github.com/rowetechinc/RTI
+	branch = master
+[submodule "Pulse-Display"]
+	path = Pulse-Display
+	url = https://github.com/rowetechinc/Pulse-Display
+	branch = master
